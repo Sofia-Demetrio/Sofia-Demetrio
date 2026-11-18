@@ -7,7 +7,7 @@
   </picture>
 </div>
 
-<h2 align="center">Hi, I'm Sofia! 👋</h2>
+<h2 align="center"> Sofia Monteiro
 
 <p align="center">
   Computer Engineering undergraduate at <strong>Universidade Federal da Grande Dourados (UFGD)</strong>.<br>
@@ -18,13 +18,13 @@
 
 ### About me
 
-I'm a Computer Engineering student who enjoys turning academic knowledge into practical solutions. Throughout my degree, I've been involved in projects that connect technology with real-world challenges, especially in robotics, healthcare and research.
+Sou graduanda em Engenharia de Computação pela Universidade Federal da Grande Dourados (UFGD), com interesse em desenvolvimento de software, inteligência artificial, robótica e pesquisa aplicada.
 
-- 🔬 **Applied research:** I participate in the technological initiation project behind *Mãe Informa*, an app focused on self-care in the context of gestational diabetes, developed in partnership with the UFGD University Hospital. The work was presented at VIII COENPE and received an Honorable Mention for Best Work in Technology, Innovation and Health Care.
-- 🤖 **Robotics:** I'm part of the UFGD Robotics Group, where I serve as secretary and contribute to the software development of **RoboCup Soccer Simulation 2D**, using C++ and the HELIOS base.
-- 👩‍💻 **Community:** I helped found a study group for women in Computing, encouraging collaborative learning and greater participation in technology.
-- 📚 **Academic life:** I also take part in scientific events, university outreach and student representation.
+Ao longo da graduação, participo de projetos que conectam tecnologia a desafios reais, como o desenvolvimento do aplicativo *Mãe Informa*, em parceria com o Hospital Universitário da UFGD, trabalho reconhecido com Menção Honrosa no VIII COENPE.
 
+Também faço parte do Grupo de Robótica da UFGD, onde atuo como secretária e desenvolvo software para o **RoboCup Soccer Simulation 2D**, utilizando C++ e a base HELIOS. Além disso, ajudei a fundar um grupo de estudos voltado para mulheres na Computação, incentivando a colaboração e a participação feminina na tecnologia.
+
+Tenho interesse em pesquisa, inovação e desenvolvimento de soluções tecnológicas com impacto social, buscando ampliar meus conhecimentos e experiências na área.
 ### Technologies & tools
 
 <p align="left">
@@ -37,19 +37,8 @@ I'm a Computer Engineering student who enjoys turning academic knowledge into pr
   <img src="https://img.shields.io/badge/Pygame-2E8B57?style=for-the-badge&logo=python&logoColor=white" alt="Pygame">
 </p>
 
-### Featured projects
 
-| Project | About |
-|---|---|
-| **RoboCup Soccer Simulation 2D** | Software development for a 2D robotic soccer simulation team, using C++ and the HELIOS base. |
-| **Mãe Informa** | Health technology project focused on supporting self-care in gestational diabetes, in partnership with the UFGD University Hospital. |
-| **Marciano vs. Caçador** | Adventure and investigation game inspired by Brazilian folklore, developed with Python and Pygame. |
 
-### Beyond the code
-
-I believe technology becomes more meaningful when it creates opportunities, supports people and encourages collaboration. That's why I value research, knowledge sharing and initiatives that make Computing more welcoming and inclusive.
-
-### Contact
 
 <p align="left">
   <a href="https://github.com/Sofia-Demetrio">
