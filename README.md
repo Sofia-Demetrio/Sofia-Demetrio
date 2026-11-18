@@ -47,5 +47,3 @@ Tenho interesse em pesquisa, inovação e desenvolvimento de soluções tecnoló
 </p>
 
 ---
-
-<p align="center"><i>Sempre aprendendo, desenvolvendo e explorando novas possibilidades.</i></p>
