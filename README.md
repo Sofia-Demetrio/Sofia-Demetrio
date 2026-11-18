@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
@@ -62,3 +63,7 @@ I believe technology becomes more meaningful when it creates opportunities, supp
 ---
 
 <p align="center"><i>Always learning, building and exploring new possibilities.</i></p>
+=======
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+>>>>>>> 47638f8696f8574967f5cef31003e2ab122caa92
